@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Updated multiple minor & patch gem versions thanks to [Depfu](https://depfu.com)
 - Updated rubocop version and ignored all cops by default
 - Added rubocop-rspec gem, enabled cops one by one fixing offenses.
+- Remove legislation section arrows and duplicate html tag  thanks to [xarlybovi](https://github.com/xarlybovi) https://github.com/consul/consul/issues/1704
 
 ### Deprecated
 
